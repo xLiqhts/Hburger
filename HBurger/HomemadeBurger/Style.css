@@ -1,0 +1,105 @@
+.container{
+    position: relative;
+    display: flex;
+    width: 1100px;
+    margin: 80px auto;
+    padding: 0 50px;
+    border-radius: 10px;
+    padding-bottom: 100px;
+    background-color: rgb(47, 47, 55);
+    box-shadow: 0px 5px 25px rgb(0, 0, 0);
+    
+    
+}
+
+body {
+    background-image: url("C:/Users/angel/Desktop/HBurger/HomemadeBurger/IMAGES/Background.jpg");
+    background-size: cover; /* to make the image cover the entire background */
+  }
+
+
+
+.image img {
+    float: left;
+    margin-right: 20px;
+    height: 0 300px;
+    border-radius: 6px;
+    box-shadow: 0px 5px 20px rgb(0, 0, 0);
+}
+    
+.image {
+    margin-top: 45px;
+}
+
+.table-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+font-weight: bold;
+text-align: center;
+margin-left: 180px;
+color: rgb(255, 255, 255);
+
+
+ 
+}
+
+.table {
+    float: left; 
+    margin-left: -80px; 
+    margin-right: 100px;
+    
+}
+
+.table-text {
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 100px;
+  }
+  
+  .table-text p {
+    font-size: 25px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .procedure-text{
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 100px;
+
+  }
+
+  .procedure-text li {
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif
+  }
+
+
+table { 
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+table th, table td {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid #57504b;
+    padding: 10px;
+}
+
+table th {
+    background-color: #1E1C21;
+    color: rgb(150, 148, 148);
+}
+
+table tr {
+    
+    background-color: #2F2B31;
+    color: rgb(199, 199, 199);
+}
+
+
